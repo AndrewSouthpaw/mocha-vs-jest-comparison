@@ -4,11 +4,14 @@
   "description": "Jest vs Mocha",
   "license": "MIT",
   "scripts": {
-    "test": "./node_modules/.bin/mocha-parallel-tests --compilers ts:ts-node/register 'src/**/__tests__/*.spec.js'",
-    "test2": "jest"
+    "mochatestreact": "cp .babelrc-mocha .babelrc && mocha --compilers js:babel-core/register 'src/**/__tests__/*.test.jsx'",
+    "mochatestjs": "cp .babelrc-mocha .babelrc && mocha --compilers js:babel-core/register 'src/**/__tests__/*.spec.js'",
+    "jesttestreact": "cp .babelrc-jest .babelrc && jest --testPathPattern=foo --env=node",
+    "jesttestjs": "cp .babelrc-jest .babelrc && jest --testPathPattern=index --env=node"
   },
   "dependencies": {
     "babel-core": "^6.26.0",
+    "babel-plugin-rewire": "^1.1.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.3.0",

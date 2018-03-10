@@ -1,7 +1,8 @@
 import React from 'react'
+import { foo } from './index'
 
 export class Foo extends React.Component {
   render() {
-    return (<p>Hello</p>)
+    return (<p>{foo()}</p>)
   }
 }
