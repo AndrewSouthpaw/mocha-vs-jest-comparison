@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eebeff7-87f7-45b4-b9a5-6133b127eb0e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc-jest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc-mocha" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/jest/__tests__/foo.test.jsx" afterPath="$PROJECT_DIR$/jest/__tests__/foo.test.jsx" />
-      <change beforePath="$PROJECT_DIR$/jest/foo.jsx" afterPath="$PROJECT_DIR$/jest/foo.jsx" />
-      <change beforePath="$PROJECT_DIR$/jest/index.js" afterPath="$PROJECT_DIR$/jest/index.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/foo.test.jsx" afterPath="$PROJECT_DIR$/src/__tests__/foo.test.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/index.spec.js" afterPath="$PROJECT_DIR$/src/__tests__/index.spec.js" />
-      <change beforePath="$PROJECT_DIR$/src/foo.jsx" afterPath="$PROJECT_DIR$/src/foo.jsx" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
-    </list>
+    <list default="true" id="6eebeff7-87f7-45b4-b9a5-6133b127eb0e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +294,7 @@
       <updated>1520681126610</updated>
       <workItem from="1520681127806" duration="437000" />
       <workItem from="1520686707305" duration="127000" />
-      <workItem from="1520692102882" duration="3671000" />
+      <workItem from="1520692102882" duration="3750000" />
     </task>
     <servers />
   </component>
@@ -331,7 +319,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4235000" />
+    <option name="totallyTimeSpent" value="4314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1676" height="1027" extended-state="0" />
